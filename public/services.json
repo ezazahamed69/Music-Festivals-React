@@ -1,0 +1,45 @@
+[
+    {
+      "name": "Live Music Performance",
+      "image": "../src/assets/services1.jpg",
+      "price": "500 TK",
+      "description": "Enjoy a thrilling live music performance featuring top artists from around the world.",
+      "button": "Book Now"
+    },
+    {
+      "name": "Food and Beverage Stalls",
+      "image": "../src/assets/services2.jpg",
+      "price": "Varies",
+      "description": "Indulge in a wide variety of delicious food and beverages from local and international vendors.",
+      "button": "Explore Menus"
+    },
+    {
+      "name": "VIP Access Pass",
+      "image": "https://i.ibb.co/vBfgR6K/picture2.webp",
+      "price": "200 TK",
+      "description": "Upgrade your festival experience with VIP access, exclusive seating, and amenities.",
+      "button": "Get VIP Pass"
+    },
+    {
+      "name": "Merchandise Shop",
+      "image": "https://i.ibb.co/tJFxKcK/picture1.webp",
+      "price": "Varies",
+      "description": "Grab your favorite artist's merchandise, including t-shirts, posters, and more.",
+      "button": "Shop Now"
+    },
+    {
+      "name": "Artist Meet and Greet",
+      "image": "https://i.ibb.co/tJFxKcK/picture1.webp",
+      "price": "$100",
+      "description": "Meet your favorite artists up close and personal. Limited slots available.",
+      "button": "Reserve Spot"
+    },
+    {
+      "name": "Camping Zone",
+      "image": "https://i.ibb.co/tJFxKcK/picture1.webp",
+      "price": "$50",
+      "description": "Camp on-site and enjoy the full festival experience. Limited spots available.",
+      "button": "Book Camping Spot"
+    }
+  ]
+  
