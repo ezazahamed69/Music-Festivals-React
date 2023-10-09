@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "title": "Summer Music Festival 2023",
+      "subtitle": "Join us for a weekend of music, fun, and sun!",
+      "description": "Summer Music Festival 2023 is the ultimate celebration of music and good vibes. Featuring top artists from around the world, this festival promises a memorable weekend of live performances, delicious food, and unforgettable memories. Don't miss out on the hottest event of the summer!",
+      "imageURL": "../src/assets/5.jpg",
+      "linkURL": "https://example.com/summer-festival"
+    },
+    {
+      "id": 2,
+      "title": "Rock the Park 2023",
+      "subtitle": "Get ready to rock out in the great outdoors!",
+      "description": "Rock the Park 2023 is back with a bang! This year, we're bringing you the biggest names in rock and roll, along with a beautiful natural setting for an unforgettable experience. Join us for a weekend of headbanging, camping, and pure rock 'n' roll excitement.",
+      "imageURL": "https://example.com/festival2.jpg",
+      "linkURL": "https://example.com/rock-the-park"
+    },
+    {
+      "id": 3,
+      "title": "Electronic Dance Extravaganza",
+      "subtitle": "Experience the ultimate EDM festival!",
+      "description": "Get ready to dance the night away at the Electronic Dance Extravaganza! Our festival features the world's top electronic dance music DJs and producers. Immerse yourself in stunning visuals, high-energy beats, and a community of fellow music lovers.",
+      "imageURL": "https://example.com/festival3.jpg",
+      "linkURL": "https://example.com/edm-extravaganza"
+    }
+   
+  ]
+  
