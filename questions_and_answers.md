@@ -18,7 +18,7 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: B.  For Explain about correct Ans : In the given code, there is a typographical error where you intended to declare a variable named "greeting," but you actually wrote "greetign." Since "greetign" is not defined anywhere in the code, it will result in a ReferenceError when you try to access it. 
 
 <i>Write your explanation here</i>
 
@@ -43,7 +43,7 @@ sum(1, "2");
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C. For Explain about correct Ans : In the provided code, the sum function takes two parameters, a and b, and attempts to add them together using the + operator. When you call sum(1, "2"), JavaScript will perform type coercion and convert the number 1 to a string, then concatenate it with the string "2". As a result, you get the string "12" as the output. So, the function returns "12".
 
 <i>Write your explanation here</i>
 
@@ -69,7 +69,7 @@ console.log(food);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: A. For Explain about correct Ans : In the given code, the info.favoriteFood initially references the first element of the food array, which is "🍕". Then, it is reassigned to "🍝". However, this reassignment only affects the info.favoriteFood property and not the original food array. Therefore, when you console.log(food), it will output the original food array, which remains unchanged: ['🍕', '🍫', '🥑', '🍔'].
 
 <i>Write your explanation here</i>
 
@@ -94,7 +94,7 @@ console.log(sayHi());
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: B. For Explain about correct Ans : In the provided function sayHi(name), it expects an argument name to be passed when it's called. However, when you call sayHi() without providing any argument, the name parameter inside the function is undefined. Therefore, the function returns "Hi there, undefined" because it concatenates the undefined value with the string
 
 <i>Write your explanation here</i>
 
@@ -122,7 +122,7 @@ console.log(count);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C.For Explain about correct Ans : In the given code, the forEach method iterates over the elements of the nums array. Inside the callback function, it checks if the current num is truthy (all numbers except 0 are truthy in JavaScript) and increments the count variable by 1 for each truthy value encountered. Since there are three truthy values in the array (1, 2, and 3), the final value of count is 3. Therefore, console.log(count) will output 3.
 
 <i>Write your explanation here</i>
 

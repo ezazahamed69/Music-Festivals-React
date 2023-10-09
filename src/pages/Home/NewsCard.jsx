@@ -3,9 +3,9 @@ const NewsCard = ({ news }) => {
 
   return (
     <div className="mb-4">
-      <div className="card w-full bg-base-100 shadow-xl space-y-6">
+      <div className="card w-full bg-base-100 shadow-xl space-y-8">
         <figure>
-          <img src={imageURL} alt="Shoes" />
+          <img src={imageURL} alt="Music_Pic" />
         </figure>
         <div className="card-body">
           <h2 className="card-title">{title}</h2>
