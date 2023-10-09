@@ -20,7 +20,7 @@ const LiftSideNav = () => {
           key={service.id}
         >
           <figure>
-            <img src={`/images/${service.image}`} alt={service.name} />
+            <img src={`${service.image}`} alt={service.name} />
           </figure>
           <div className="card-body">
             <h2 className="card-title">{service.name}</h2>
